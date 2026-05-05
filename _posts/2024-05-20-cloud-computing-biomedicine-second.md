@@ -1,18 +1,21 @@
 ---
 layout: post
 title: "Cloud Computing in Biomedicine: Unlocking Scalable Research"
-date: 2026-05-05
+subtitle: "If you’ve ever wondered how scientists handle massive biological datasets, this topic is for you."
+gh-repo: ainamastena/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+mathjax: true
 categories: [biomedicine, cloud computing]
+author: Aina Mas
 ---
 
-## Introduction
+Hi readers! Welcome to the first entry of my blog. Today, I’d like to introduce you to cloud computing.
 
-As biomedical research becomes increasingly data-driven, researchers face growing challenges in storing, processing, and analyzing large datasets. Traditional computing infrastructure is often insufficient for handling tasks such as genomic sequencing, medical imaging, and large-scale simulations. This is where cloud computing emerges as a transformative solution.
+Over the last decade, biomedical research has evolved into a true “big data” science. As researchers move away from local servers toward more scalable solutions, cloud computing has become a key tool in this transformation. For my latest master’s lab assignment, I explored a paper from PLOS Computational Biology that discusses this shift.
 
-In this post, I explore how cloud computing is applied in biomedicine, based on the article:
-
-> Langmead, B., Nellore, A. (2018). *Cloud computing for genomic data analysis and collaboration*. PLOS Computational Biology.  
-> https://doi.org/10.1371/journal.pcbi.1006144
+Here’s a short summary of this insightful paper.
 
 ---
 
@@ -69,17 +72,9 @@ The article highlights the importance of developing best practices to address th
 
 ---
 
-## Personal Reflection
-
-What I found most interesting is how cloud computing is not just a technical improvement, but a shift in how science is conducted. It enables more collaborative, scalable, and transparent research.
-
-As biomedical datasets continue to grow, cloud computing will likely become a standard tool rather than an optional one. Understanding how to use these platforms effectively will be an essential skill for future researchers.
-
----
-
 ## Conclusion
 
-Cloud computing is revolutionizing biomedicine by providing scalable, cost-effective, and collaborative solutions for handling large datasets. The article by Langmead and Nellore clearly demonstrates how cloud technologies are already shaping genomic research and will continue to play a critical role in the future of healthcare and science.
+Cloud computing is revolutionizing biomedicine by providing scalable, cost-effective, and collaborative solutions for handling large datasets. As the volume and complexity of biomedical data grow, the "pay-as-you-go" model of cloud computing isn't just a convenience, it’s a necessity for the next generation of precision medicine and genomic discovery.
 
 ---
 
