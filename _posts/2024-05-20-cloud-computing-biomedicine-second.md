@@ -10,7 +10,7 @@ author: Aina Mas
 
 Hi readers! Welcome to the first entry of my blog. Today, I’d like to introduce you to cloud computing.
 
-Over the last decade, biomedical research has evolved into a true “big data” science. As researchers move away from local servers toward more scalable solutions, cloud computing has become a key tool in this transformation. For my latest master’s lab assignment, I explored a paper from PLOS Computational Biology that discusses this shift.
+Over the last decade, biomedical research has evolved into a true “big data” science. As researchers move away from local servers toward more scalable solutions, cloud computing has become a key tool in this transformation. For my latest master’s lab assignment, I explored a paper from *PLOS Computational Biology* that discusses this shift.
 
 Here’s a short summary of this insightful paper.
 
@@ -28,11 +28,11 @@ In biomedicine, this is particularly valuable because datasets (e.g., genomic da
 
 ### 1. Scalability
 
-Cloud platforms allow researchers to scale resources up or down depending on their needs. For example, a genomic analysis that would take days on a local computer can be completed much faster using distributed cloud resources.
+Cloud platforms allow researchers to scale resources up or down depending on their needs. For example, a genomic analysis that might take days on a local computer can be completed much faster using distributed cloud resources.
 
 ### 2. Cost Efficiency
 
-Instead of investing in expensive hardware, users pay only for what they use. This “pay-as-you-go” model makes advanced computing accessible even to smaller research groups.
+Instead of investing in expensive hardware, users only pay for what they use. This “pay-as-you-go” model makes advanced computing accessible even to smaller research groups.
 
 ### 3. Collaboration
 
@@ -46,7 +46,7 @@ Cloud platforms support reproducible science by allowing workflows, environments
 
 ## Real-World Applications
 
-The article emphasizes genomic data analysis as a major use case. With the rise of next-generation sequencing technologies, cloud computing is essential for:
+The article highlights genomic data analysis as a major use case. With the rise of next-generation sequencing technologies, cloud computing plays a crucial role in:
 
 - DNA and RNA sequence analysis  
 - Variant detection  
@@ -59,23 +59,23 @@ Platforms such as Amazon Web Services (AWS), Google Cloud, and Microsoft Azure a
 
 ## Challenges and Considerations
 
-Despite its advantages, cloud computing in biomedicine also presents challenges:
+Despite its advantages, cloud computing in biomedicine also presents some challenges:
 
 - **Data security and privacy:** Sensitive medical data must be carefully protected.  
 - **Cost management:** Poorly optimized workflows can lead to unexpected expenses.  
 - **Learning curve:** Researchers may need training to effectively use cloud tools.  
 
-The article highlights the importance of developing best practices to address these issues.
+The article emphasizes the importance of developing best practices to address these issues.
 
 ---
 
 ## Conclusion
 
-Cloud computing is revolutionizing biomedicine by providing scalable, cost-effective, and collaborative solutions for handling large datasets. As the volume and complexity of biomedical data grow, the "pay-as-you-go" model of cloud computing isn't just a convenience, it’s a necessity for the next generation of precision medicine and genomic discovery.
+Cloud computing is revolutionizing biomedicine by providing scalable, cost-effective, and collaborative solutions for handling large datasets. As the volume and complexity of biomedical data continue to grow, the “pay-as-you-go” model is not just a convenience—it is becoming a necessity for the next generation of precision medicine and genomic discovery.
 
 ---
 
 ## References
 
-Langmead, B., & Nellore, A. (2018). Cloud computing for genomic data analysis and collaboration. *PLOS Computational Biology*, 14(7), e1006144.  
+Langmead, B., & Nellore, A. (2018). *Cloud computing for genomic data analysis and collaboration*. *PLOS Computational Biology*, 14(7), e1006144.  
 https://doi.org/10.1371/journal.pcbi.1006144
