@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cloud Computing in Biomedicine: Unlocking Scalable Research"
-subtitle: "If you’ve ever wondered how scientists handle massive biological datasets, this topic is for you."
+subtitle: "If you’ve ever wondered how scientists handle massive biological datasets, this topic is for you"
 gh-repo: ainamastena/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
